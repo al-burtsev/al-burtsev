@@ -16,5 +16,5 @@
 ---
 
 ### 📫 Как со мной связаться
-*   **Telegram:** [@al_burtsevv]
-*   **Email:** [burtsev.aleksandr@yandex.ru]
+*   **Telegram:** [@al_burtsevv](https://t.me/al_burtsevv)
+*   **Email:** burtsev.aleksandr@yandex.ru
