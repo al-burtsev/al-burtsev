@@ -1,19 +1,20 @@
-## Привет, я Александр Бурцев 👋
+# Привет, я [Твое Имя] 👋
+### Frontend Developer | UI Engineer
 
-* Фронтенд-разработчик
-* 3 года опыта на позиции HTML-верстальщик
+Я создаю качественные, производительные и доступные интерфейсы. За 3+ года в индустрии я прошел путь от верстки сложных макетов до разработки логики на TypeScript и React.
 
+---
 
-* Стек
-  - HTML (HTML5)
-  - CSS (CSS3), Sass (SCSS)
-  - JavaScript(ES6+), jQuery, TypeScript
-  - GSAP
-  - React
-  - Gulp, Vite, Webpack
-  - Git (GitHub, GitLab)
-  - Figma, Adobe Photoshop
+### 🛠 Стек технологий
 
+*   **Core:** HTML5 (Semantic, Accessibility), CSS3 (Flexbox, Grid), JavaScript (ES6+), TypeScript.
+*   **Styles & Animation:** Tailwind CSS, SCSS/SASS, GSAP (сложная анимация).
+*   **Frameworks:** React (создание переиспользуемых компонентов).
+*   **Build Tools:** Vite (основной), Webpack, Gulp.
+*   **Workflow:** Git (GitHub/GitLab), Figma, Adobe Photoshop.
 
-### 💻 Примеры работ:
-<a href="https://al-burtsev.github.io/projects/" target="_blank">al-burtsev.github.io/projects</a>
+---
+
+### 📫 Как со мной связаться
+*   **Telegram:** [@al_burtsevv]
+*   **Email:** [burtsev.aleksandr@yandex.ru]
