@@ -9,7 +9,7 @@
 
 *   **Core:** HTML5 (Semantic, Accessibility), CSS3 (Flexbox, Grid), JavaScript (ES6+), TypeScript.
 *   **Styles & Animation:** Tailwind CSS, SCSS/SASS, GSAP (сложная анимация).
-*   **Frameworks:** React (создание переиспользуемых компонентов).
+*   **Frameworks:** React, Next.js (создание переиспользуемых компонентов).
 *   **Build Tools:** Vite (основной), Webpack, Gulp.
 *   **Workflow:** Git (GitHub/GitLab), Figma, Adobe Photoshop.
 
