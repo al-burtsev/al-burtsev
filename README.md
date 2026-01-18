@@ -17,11 +17,11 @@
 
 ### 💻 Избранные проекты
 
-1.  [Loopstudios landing] — Адаптивная верстка с использованием Next.js + Tailwind.
+1.  [Loopstudios landing](https://github.com/al-burtsev/loopstudios-landing) — Адаптивная верстка с использованием Next.js + Tailwind.
     *   [Посмотреть Demo](https://loopstudios-landing.vercel.app/)
-2.  [Todo App] — Реализация логики на JS
+2.  [Todo App](https://github.com/al-burtsev/projects/tree/main/TodoApp) — Реализация логики на JS
     *   [Посмотреть Demo](https://al-burtsev.github.io/projects/TodoApp/todo-front/index.html)
-3.  [Glossary App] — Реализация логики на React
+3.  [Glossary App](https://github.com/al-burtsev/term-app) — Реализация логики на TS/React
     *   [Посмотреть Demo](https://term-app-d4tb.vercel.app/)
 
 ---
